@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aiwaproxy
-- 👀 I’m interested in ...learning more about coding
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...building a bridge between wallets and standard pay sites
+- 🌱 I’m currently learning ...how to build a mobile wallet
+- 💞️ I’m looking to collaborate on ...buildinga a wallet that can communicate with pay sites
 - 📫 How to reach me ...
 
 <!---
